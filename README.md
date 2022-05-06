@@ -10,4 +10,5 @@ An explanation of the project can be found in the website linked in the reposito
 <p align="center"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ## Collaborators
-[![](https://github.com/ballisticwarfare.png?size=50)](https://github.com/ballisticwarfare)
+[![](https://avatars.githubusercontent.com/u/74185979?v=4)](https://github.com/ballisticwarfare)
+[![](https://avatars.githubusercontent.com/u/58046407?v=4&s=420)](https://github.com/nesturie)
