@@ -12,3 +12,4 @@ An explanation of the project can be found in the website linked in the reposito
 ## Collaborators
 [![](https://avatars.githubusercontent.com/u/74185979?v=4)](https://github.com/ballisticwarfare)
 [![](https://avatars.githubusercontent.com/u/58046407?v=4&s=420)](https://github.com/nesturie)
+[![](https://avatars.githubusercontent.com/u/99356780?v=4)](https://github.com/harahm)
